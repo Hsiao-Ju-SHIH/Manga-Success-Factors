@@ -1,0 +1,19 @@
+font.family : Segoe UI, Microsoft JhengHei
+axes.titlesize : 12
+axes.labelsize : 10
+axes.labelcolor : 9d9d9d
+axes.spines.top : False
+axes.spines.right : False
+axes.edgecolor : 9d9d9d
+#axes.prop_cycle : cycler('color', ['4e7496', 'ffd700', '1abc9c', 'ffe5b4', '800020'])
+#axes.prop_cycle : cycler('color', ['4e7496', '51acbd', 'b6bd51', '4e4f96', '96514e', 'ffc900', 'ffe5b4'])
+axes.prop_cycle : cycler('color', ['4e7496', '51acbd', 'b6bd51', '489e84', '96514e', 'ffc900', 'ffe5b4'])
+xtick.color : 9d9d9d
+xtick.labelsize : 10
+ytick.color : 9d9d9d
+ytick.labelsize : 10
+legend.frameon : False
+figure.figsize : 6.5, 3.65625
+figure.titlesize : 14
+figure.titleweight : bold
+figure.dpi : 200
