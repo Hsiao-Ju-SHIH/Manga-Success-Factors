@@ -1,4 +1,4 @@
-# Please read the pdf slide - What Factors Contribute to Manga Success.pdf first!) 
+# Please read the pdf slide - What Factors Contribute to Manga Success.pdf first!
 * Project objective: Finding manga's key success factors through analytics and predictive model
 
 # Tool / Skill Used
